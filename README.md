@@ -30,20 +30,7 @@
 
 ## App Screenshots
 
-<br>Dashboard</br>
-<img src="https://github.com/user-attachments/assets/5eeb7d4b-a6b7-4e2c-a49e-309a2402a70d" width="130" height = "300"/>
-<br>Add Popup</br>
-<img src="https://github.com/user-attachments/assets/75ae406d-9056-48b3-8680-ad2eebb841ed" width="130" height = "300"/>
-<br>Subject Dashboard</br>
-<img src="https://github.com/user-attachments/assets/15d70531-c072-489a-84c8-105b927401ff" width="130" height = "300"/>
-<br>Task Add</br>
-<img src="https://github.com/user-attachments/assets/4ddb1a6a-3e12-4be4-903b-cbf9e93273f5" width="130" height = "300"/>
-<br>Timer Loading</br>
-<img src="https://github.com/user-attachments/assets/da2f5808-ebff-48ac-8762-ebfc9500a84d" width="130" height = "300"/>
-<br>Timer Idle</br>
-<img src="https://github.com/user-attachments/assets/13cc7121-0efa-481c-afc6-a4f6d6026f07" width="130" height = "300"/>
-<br>Timer Resume</br>
-<img src="https://github.com/user-attachments/assets/6aa4a2ed-40f3-401f-b766-08a350aea64b" width="130" height = "300"/>
+<table> <tr> <td><img src="https://github.com/user-attachments/assets/5eeb7d4b-a6b7-4e2c-a49e-309a2402a70d" width="130" height="300"/><br><b>Dashboard</b> </br></td> <td><img src="https://github.com/user-attachments/assets/75ae406d-9056-48b3-8680-ad2eebb841ed" width="130" height="300"/><br><b>Add Subject</b> </br></td> <td><img src="https://github.com/user-attachments/assets/15d70531-c072-489a-84c8-105b927401ff" width="120" height="300"/><br><b>Subject Details</b> </br></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/4ddb1a6a-3e12-4be4-903b-cbf9e93273f5" width="130" height="300"/><br><b>Add Task</b> </br></td> <td><img src="https://github.com/user-attachments/assets/da2f5808-ebff-48ac-8762-ebfc9500a84d" width="130" height="300"/><br><b>Timer ongoing</b> </br></td> <td><img src="https://github.com/user-attachments/assets/13cc7121-0efa-481c-afc6-a4f6d6026f07" width="130" height="300"/><br><b>Timer idle</b> </br></td> </tr> <tr> <td colspan="3"><img src="https://github.com/user-attachments/assets/6aa4a2ed-40f3-401f-b766-08a350aea64b" width="130" height="300"/><br><b>Timer to be resumed</b> </br></td> </tr> </table>
 
 ## App demo
 
